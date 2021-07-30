@@ -1,6 +1,7 @@
 ## 🖥️ Languages & IDEs
 ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
+![C#](https://img.shields.io/badge/Language-C%23-green?style=flat&logo=csharp)
 ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-blueviolet?style=flat&logo=eclipse)
 ![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat&logo=Visual%20Studio)
 
