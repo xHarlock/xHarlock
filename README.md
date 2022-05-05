@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/Language-C%23-green?style=flat&logo=csharp)
 <br>
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-Eclipse-darkblue?style=flat&logo=intellijidea)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-darkblue?style=flat&logo=intellijidea)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-yellowgreen?style=flat&logo=pycharm)
 ![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat&logo=Visual%20Studio)
 
